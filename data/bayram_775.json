@@ -1,0 +1,24 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:36:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:50:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "296",
+      "IlceAdi": "PALIKIR",
+      "IlceAdiEn": null,
+      "IlceID": "15452",
+      "KabeyeUzaklik": "12596",
+      "KibleAcisi": "291",
+      "SehirAdi": "MIKRONEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MIKRONEZYA",
+      "UlkeAdiEn": null
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:12:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "05:54:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "252",
+      "IlceAdi": "AR RAYYAN",
+      "IlceAdiEn": null,
+      "IlceID": "14877",
+      "KabeyeUzaklik": "1254",
+      "KibleAcisi": "250",
+      "SehirAdi": "KATAR",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KATAR",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:11:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "05:54:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "252",
+      "IlceAdi": "DOHA",
+      "IlceAdiEn": null,
+      "IlceID": "14879",
+      "KabeyeUzaklik": "1267",
+      "KibleAcisi": "217",
+      "SehirAdi": "KATAR",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KATAR",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:14:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "05:56:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "250",
+      "IlceAdi": "DUKHAN",
+      "IlceAdiEn": null,
+      "IlceID": "14878",
+      "KabeyeUzaklik": "1203",
+      "KibleAcisi": "249",
+      "SehirAdi": "KATAR",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KATAR",
+      "UlkeAdiEn": null
+    }
+  }
+]

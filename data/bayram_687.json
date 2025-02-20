@@ -1,0 +1,24 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:13:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:05:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "DILI",
+      "IlceAdiEn": null,
+      "IlceID": "12673",
+      "KabeyeUzaklik": "9227",
+      "KibleAcisi": "289",
+      "SehirAdi": "DOGU TIMOR",
+      "SehirAdiEn": null,
+      "UlkeAdi": "DOGU TIMOR",
+      "UlkeAdiEn": null
+    }
+  }
+]

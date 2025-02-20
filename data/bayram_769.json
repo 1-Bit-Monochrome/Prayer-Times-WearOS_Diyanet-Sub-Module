@@ -1,0 +1,90 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:31:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:54:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "72",
+      "IlceAdi": "BAMAKO",
+      "IlceAdiEn": null,
+      "IlceID": "15345",
+      "KabeyeUzaklik": "5158",
+      "KibleAcisi": "78",
+      "SehirAdi": "MALI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALI",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:54:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:21:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "75",
+      "IlceAdi": "GAO",
+      "IlceAdiEn": null,
+      "IlceID": "15346",
+      "KabeyeUzaklik": "4225",
+      "KibleAcisi": "78",
+      "SehirAdi": "MALI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALI",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:23:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:47:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "72",
+      "IlceAdi": "SEGOU",
+      "IlceAdiEn": null,
+      "IlceID": "15348",
+      "KabeyeUzaklik": "4952",
+      "KibleAcisi": "77",
+      "SehirAdi": "MALI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALI",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:01:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:33:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "78",
+      "IlceAdi": "TOMBOUCTOU",
+      "IlceAdiEn": null,
+      "IlceID": "15347",
+      "KabeyeUzaklik": "4470",
+      "KibleAcisi": "82",
+      "SehirAdi": "MALI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALI",
+      "UlkeAdiEn": null
+    }
+  }
+]

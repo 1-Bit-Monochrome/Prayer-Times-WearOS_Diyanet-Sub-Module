@@ -1,0 +1,46 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:31:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:45:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "41",
+      "IlceAdi": "LINCOLN",
+      "IlceAdiEn": null,
+      "IlceID": "8858",
+      "KabeyeUzaklik": "11769",
+      "KibleAcisi": "38",
+      "SehirAdi": "NEBRASKA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:27:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:42:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "42",
+      "IlceAdi": "OMAHA",
+      "IlceAdiEn": null,
+      "IlceID": "8859",
+      "KabeyeUzaklik": "11691",
+      "KibleAcisi": "38",
+      "SehirAdi": "NEBRASKA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  }
+]

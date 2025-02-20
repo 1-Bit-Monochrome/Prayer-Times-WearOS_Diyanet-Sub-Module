@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:07:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:17:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "21",
+      "IlceAdi": "CARSON CITY",
+      "IlceAdiEn": null,
+      "IlceID": "8860",
+      "KabeyeUzaklik": "12954",
+      "KibleAcisi": "7",
+      "SehirAdi": "NEVADA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:56:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:59:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "26",
+      "IlceAdi": "LAS VEGAS",
+      "IlceAdiEn": null,
+      "IlceID": "8861",
+      "KabeyeUzaklik": "13095",
+      "KibleAcisi": "13",
+      "SehirAdi": "NEVADA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:07:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:17:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "21",
+      "IlceAdi": "RENO",
+      "IlceAdiEn": null,
+      "IlceID": "8862",
+      "KabeyeUzaklik": "12918",
+      "KibleAcisi": "6",
+      "SehirAdi": "NEVADA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  }
+]

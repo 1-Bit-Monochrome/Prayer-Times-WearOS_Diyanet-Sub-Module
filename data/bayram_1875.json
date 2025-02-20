@@ -1,0 +1,46 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:44:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "09:16:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "5",
+      "IlceAdi": "INUVIK",
+      "IlceAdiEn": null,
+      "IlceID": "33338",
+      "KabeyeUzaklik": "10020",
+      "KibleAcisi": "346",
+      "SehirAdi": "NORTHWEST TERRITORIES",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KANADA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:27:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:56:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "23",
+      "IlceAdi": "YELLOWKNIFE",
+      "IlceAdiEn": null,
+      "IlceID": "33290",
+      "KabeyeUzaklik": "10417",
+      "KibleAcisi": "8",
+      "SehirAdi": "NORTHWEST TERRITORIES",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KANADA",
+      "UlkeAdiEn": null
+    }
+  }
+]

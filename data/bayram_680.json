@@ -1,0 +1,90 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "04:55:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:15:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "194",
+      "IlceAdi": "GROZNY",
+      "IlceAdiEn": null,
+      "IlceID": "12303",
+      "KabeyeUzaklik": "2493",
+      "KibleAcisi": "187",
+      "SehirAdi": "CECENISTAN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "CECENISTAN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "04:53:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:13:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "195",
+      "IlceAdi": "GUEDERMES",
+      "IlceAdiEn": null,
+      "IlceID": "12300",
+      "KabeyeUzaklik": "2506",
+      "KibleAcisi": "189",
+      "SehirAdi": "CECENISTAN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "CECENISTAN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "04:54:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:14:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "195",
+      "IlceAdi": "SHALI",
+      "IlceAdiEn": null,
+      "IlceID": "12302",
+      "KabeyeUzaklik": "2480",
+      "KibleAcisi": "189",
+      "SehirAdi": "CECENISTAN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "CECENISTAN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "04:56:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:16:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "194",
+      "IlceAdi": "URUS-MARTAN",
+      "IlceAdiEn": null,
+      "IlceID": "12301",
+      "KabeyeUzaklik": "2471",
+      "KibleAcisi": "188",
+      "SehirAdi": "CECENISTAN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "CECENISTAN",
+      "UlkeAdiEn": null
+    }
+  }
+]

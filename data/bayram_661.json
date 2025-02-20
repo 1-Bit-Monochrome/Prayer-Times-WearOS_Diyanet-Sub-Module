@@ -1,0 +1,90 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:36:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:15:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "278",
+      "IlceAdi": "COMILLA",
+      "IlceAdiEn": null,
+      "IlceID": "11669",
+      "KabeyeUzaklik": "5256",
+      "KibleAcisi": "279",
+      "SehirAdi": "BANGLADES",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BANGLADES",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:39:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:18:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "277",
+      "IlceAdi": "DHAKA",
+      "IlceAdiEn": null,
+      "IlceID": "11672",
+      "KabeyeUzaklik": "5174",
+      "KibleAcisi": "278",
+      "SehirAdi": "BANGLADES",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BANGLADES",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:44:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:22:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "278",
+      "IlceAdi": "KHULNA",
+      "IlceAdiEn": null,
+      "IlceID": "11670",
+      "KabeyeUzaklik": "5101",
+      "KibleAcisi": "279",
+      "SehirAdi": "BANGLADES",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BANGLADES",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:45:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:25:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "276",
+      "IlceAdi": "RAJSHAHI",
+      "IlceAdiEn": null,
+      "IlceID": "11671",
+      "KabeyeUzaklik": "4983",
+      "KibleAcisi": "277",
+      "SehirAdi": "BANGLADES",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BANGLADES",
+      "UlkeAdiEn": null
+    }
+  }
+]

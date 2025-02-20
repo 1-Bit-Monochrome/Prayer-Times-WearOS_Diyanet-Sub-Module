@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:08:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:40:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "125",
+      "IlceAdi": "BALZERS",
+      "IlceAdiEn": null,
+      "IlceID": "15193",
+      "KabeyeUzaklik": "3941",
+      "KibleAcisi": "124",
+      "SehirAdi": "LIECHTENSTEIN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "LIECHTENSTEIN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:08:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:39:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "125",
+      "IlceAdi": "TRIESENBERG",
+      "IlceAdiEn": null,
+      "IlceID": "15194",
+      "KabeyeUzaklik": "3942",
+      "KibleAcisi": "124",
+      "SehirAdi": "LIECHTENSTEIN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "LIECHTENSTEIN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:08:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:40:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "125",
+      "IlceAdi": "VADUZ",
+      "IlceAdiEn": null,
+      "IlceID": "15192",
+      "KabeyeUzaklik": "3944",
+      "KibleAcisi": "124",
+      "SehirAdi": "LIECHTENSTEIN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "LIECHTENSTEIN",
+      "UlkeAdiEn": null
+    }
+  }
+]

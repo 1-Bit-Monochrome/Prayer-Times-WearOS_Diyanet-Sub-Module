@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:50:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:42:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "131",
+      "IlceAdi": "BREMEN",
+      "IlceAdiEn": null,
+      "IlceID": "11005",
+      "KabeyeUzaklik": "4397",
+      "KibleAcisi": "130",
+      "SehirAdi": "BREMEN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ALMANYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:48:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:43:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "131",
+      "IlceAdi": "BREMERHAVEN",
+      "IlceAdiEn": null,
+      "IlceID": "11116",
+      "KabeyeUzaklik": "4442",
+      "KibleAcisi": "130",
+      "SehirAdi": "BREMEN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ALMANYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:49:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:42:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "131",
+      "IlceAdi": "FINDORF",
+      "IlceAdiEn": null,
+      "IlceID": "10949",
+      "KabeyeUzaklik": "4398",
+      "KibleAcisi": "129",
+      "SehirAdi": "BREMEN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ALMANYA",
+      "UlkeAdiEn": null
+    }
+  }
+]

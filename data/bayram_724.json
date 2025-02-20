@@ -1,0 +1,112 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:06:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:43:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "285",
+      "IlceAdi": "ABERDEEN",
+      "IlceAdiEn": null,
+      "IlceID": "13999",
+      "KabeyeUzaklik": "7587",
+      "KibleAcisi": "288",
+      "SehirAdi": "HONG KONG",
+      "SehirAdiEn": null,
+      "UlkeAdi": "HONG KONG",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:06:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:43:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "285",
+      "IlceAdi": "HONG KONG",
+      "IlceAdiEn": null,
+      "IlceID": "14001",
+      "KabeyeUzaklik": "7588",
+      "KibleAcisi": "288",
+      "SehirAdi": "HONG KONG",
+      "SehirAdiEn": null,
+      "UlkeAdi": "HONG KONG",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:06:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:43:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "285",
+      "IlceAdi": "KOWLOON",
+      "IlceAdiEn": null,
+      "IlceID": "14000",
+      "KabeyeUzaklik": "7588",
+      "KibleAcisi": "288",
+      "SehirAdi": "HONG KONG",
+      "SehirAdiEn": null,
+      "UlkeAdi": "HONG KONG",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:07:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:44:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "285",
+      "IlceAdi": "LAMMA ADASI",
+      "IlceAdiEn": null,
+      "IlceID": "14002",
+      "KabeyeUzaklik": "7586",
+      "KibleAcisi": "288",
+      "SehirAdi": "HONG KONG",
+      "SehirAdiEn": null,
+      "UlkeAdi": "HONG KONG",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:06:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:43:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "285",
+      "IlceAdi": "VICTORIA",
+      "IlceAdiEn": null,
+      "IlceID": "14003",
+      "KabeyeUzaklik": "7589",
+      "KibleAcisi": "288",
+      "SehirAdi": "HONG KONG",
+      "SehirAdiEn": null,
+      "UlkeAdi": "HONG KONG",
+      "UlkeAdiEn": null
+    }
+  }
+]

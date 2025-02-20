@@ -1,0 +1,112 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:07:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:31:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "16",
+      "IlceAdi": "CORVALLIS",
+      "IlceAdiEn": null,
+      "IlceID": "18993",
+      "KabeyeUzaklik": "12480",
+      "KibleAcisi": "0",
+      "SehirAdi": "OREGON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:01:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:27:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "17",
+      "IlceAdi": "GRESHAM",
+      "IlceAdiEn": null,
+      "IlceID": "8940",
+      "KabeyeUzaklik": "12363",
+      "KibleAcisi": "30",
+      "SehirAdi": "OREGON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:02:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:28:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "17",
+      "IlceAdi": "PORTLAND",
+      "IlceAdiEn": null,
+      "IlceID": "8941",
+      "KabeyeUzaklik": "12367",
+      "KibleAcisi": "1",
+      "SehirAdi": "OREGON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:05:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:30:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "17",
+      "IlceAdi": "SALEM",
+      "IlceAdiEn": null,
+      "IlceID": "8942",
+      "KabeyeUzaklik": "12436",
+      "KibleAcisi": "1",
+      "SehirAdi": "OREGON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:11:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:28:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "17",
+      "IlceAdi": "SISKIYOU",
+      "IlceAdiEn": null,
+      "IlceID": "8943",
+      "KabeyeUzaklik": "12730",
+      "KibleAcisi": "2",
+      "SehirAdi": "OREGON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:03:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:37:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "15",
+      "IlceAdi": "BULAWAYO",
+      "IlceAdiEn": null,
+      "IlceID": "16699",
+      "KabeyeUzaklik": "1177",
+      "KibleAcisi": "26",
+      "SehirAdi": "ZIMBABVE",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ZIMBABVE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:49:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:26:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "12",
+      "IlceAdi": "CHITUNGWIZA",
+      "IlceAdiEn": null,
+      "IlceID": "16695",
+      "KabeyeUzaklik": "991",
+      "KibleAcisi": "21",
+      "SehirAdi": "ZIMBABVE",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ZIMBABVE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:57:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:32:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "13",
+      "IlceAdi": "GWERU",
+      "IlceAdiEn": null,
+      "IlceID": "16696",
+      "KabeyeUzaklik": "1066",
+      "KibleAcisi": "24",
+      "SehirAdi": "ZIMBABVE",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ZIMBABVE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:48:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:26:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "12",
+      "IlceAdi": "HARARE",
+      "IlceAdiEn": null,
+      "IlceID": "16697",
+      "KabeyeUzaklik": "1002",
+      "KibleAcisi": "21",
+      "SehirAdi": "ZIMBABVE",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ZIMBABVE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:44:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:20:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "10",
+      "IlceAdi": "MUTARE",
+      "IlceAdiEn": null,
+      "IlceID": "22213",
+      "KabeyeUzaklik": "796",
+      "KibleAcisi": "20",
+      "SehirAdi": "ZIMBABVE",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ZIMBABVE",
+      "UlkeAdiEn": null
+    }
+  }
+]

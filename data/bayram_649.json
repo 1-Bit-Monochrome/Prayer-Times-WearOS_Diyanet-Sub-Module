@@ -1,0 +1,24 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:54:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "08:12:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "111",
+      "IlceAdi": "ANDORRA LA VELLA",
+      "IlceAdiEn": null,
+      "IlceID": "11130",
+      "KabeyeUzaklik": "4254",
+      "KibleAcisi": "112",
+      "SehirAdi": "ANDORRA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ANDORRA",
+      "UlkeAdiEn": null
+    }
+  }
+]

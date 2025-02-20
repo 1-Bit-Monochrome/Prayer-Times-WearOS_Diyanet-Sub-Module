@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:43:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:38:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "64",
+      "IlceAdi": "HAMILTON",
+      "IlceAdiEn": null,
+      "IlceID": "11939",
+      "KabeyeUzaklik": "10031",
+      "KibleAcisi": "79",
+      "SehirAdi": "BERMUDA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BERMUDA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:42:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:37:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "64",
+      "IlceAdi": "SAINT GEORGE",
+      "IlceAdiEn": null,
+      "IlceID": "11940",
+      "KabeyeUzaklik": "10018",
+      "KibleAcisi": "80",
+      "SehirAdi": "BERMUDA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BERMUDA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:43:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:38:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "64",
+      "IlceAdi": "SOMERSET VILLAGE",
+      "IlceAdiEn": null,
+      "IlceID": "11941",
+      "KabeyeUzaklik": "10038",
+      "KibleAcisi": "79",
+      "SehirAdi": "BERMUDA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BERMUDA",
+      "UlkeAdiEn": null
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:46:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:44:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "330",
+      "IlceAdi": "VICTORIA",
+      "IlceAdiEn": null,
+      "IlceID": "16189",
+      "KabeyeUzaklik": "2517",
+      "KibleAcisi": "335",
+      "SehirAdi": "SEYSEL ADALARI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "SEYSEL ADALARI",
+      "UlkeAdiEn": null
+    }
+  }
+]

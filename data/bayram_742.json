@@ -1,0 +1,134 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:58:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:03:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "11",
+      "IlceAdi": "ELDORET",
+      "IlceAdiEn": null,
+      "IlceID": "15011",
+      "KabeyeUzaklik": "2378",
+      "KibleAcisi": "11",
+      "SehirAdi": "KENYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KENYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:02:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:06:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "12",
+      "IlceAdi": "KISUMU",
+      "IlceAdiEn": null,
+      "IlceID": "15012",
+      "KabeyeUzaklik": "2436",
+      "KibleAcisi": "12",
+      "SehirAdi": "KENYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KENYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:54:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:56:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "6",
+      "IlceAdi": "MACHAKOS",
+      "IlceAdiEn": null,
+      "IlceID": "15013",
+      "KabeyeUzaklik": "2232",
+      "KibleAcisi": "6",
+      "SehirAdi": "KENYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KENYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:49:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:47:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "0",
+      "IlceAdi": "MOMBASA",
+      "IlceAdiEn": null,
+      "IlceID": "15010",
+      "KabeyeUzaklik": "1933",
+      "KibleAcisi": "1",
+      "SehirAdi": "KENYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KENYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:55:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:58:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "7",
+      "IlceAdi": "NAIROBI",
+      "IlceAdiEn": null,
+      "IlceID": "15015",
+      "KabeyeUzaklik": "2264",
+      "KibleAcisi": "7",
+      "SehirAdi": "KENYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KENYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:57:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:00:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "9",
+      "IlceAdi": "NAKURU",
+      "IlceAdiEn": null,
+      "IlceID": "15014",
+      "KabeyeUzaklik": "2387",
+      "KibleAcisi": "9",
+      "SehirAdi": "KENYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KENYA",
+      "UlkeAdiEn": null
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:45:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:21:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "349",
+      "IlceAdi": "ANTANANARIVO",
+      "IlceAdiEn": null,
+      "IlceID": "15268",
+      "KabeyeUzaklik": "851",
+      "KibleAcisi": "4",
+      "SehirAdi": "MADAGASKAR",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MADAGASKAR",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:49:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:23:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "349",
+      "IlceAdi": "ANTSIRABE",
+      "IlceAdiEn": null,
+      "IlceID": "15271",
+      "KabeyeUzaklik": "769",
+      "KibleAcisi": "6",
+      "SehirAdi": "MADAGASKAR",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MADAGASKAR",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:52:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:24:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "350",
+      "IlceAdi": "FIANARANTSOA",
+      "IlceAdiEn": null,
+      "IlceID": "15272",
+      "KabeyeUzaklik": "750",
+      "KibleAcisi": "9",
+      "SehirAdi": "MADAGASKAR",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MADAGASKAR",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:43:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:24:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "350",
+      "IlceAdi": "MAHAJANGA",
+      "IlceAdiEn": null,
+      "IlceID": "15269",
+      "KabeyeUzaklik": "932",
+      "KibleAcisi": "1",
+      "SehirAdi": "MADAGASKAR",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MADAGASKAR",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:36:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:13:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "346",
+      "IlceAdi": "TOAMASINA",
+      "IlceAdiEn": null,
+      "IlceID": "15270",
+      "KabeyeUzaklik": "1066",
+      "KibleAcisi": "1",
+      "SehirAdi": "MADAGASKAR",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MADAGASKAR",
+      "UlkeAdiEn": null
+    }
+  }
+]

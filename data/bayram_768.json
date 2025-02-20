@@ -1,0 +1,684 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:29:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:42:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "ALUR SETAR",
+      "IlceAdiEn": null,
+      "IlceID": "15314",
+      "KabeyeUzaklik": "6717",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:29:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:39:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "BATU GAJAH",
+      "IlceAdiEn": null,
+      "IlceID": "15316",
+      "KabeyeUzaklik": "6853",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:26:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:32:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "BATU PAHAT",
+      "IlceAdiEn": null,
+      "IlceID": "15315",
+      "KabeyeUzaklik": "7159",
+      "KibleAcisi": "293",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:30:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:42:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "GEORGE TOWN",
+      "IlceAdiEn": null,
+      "IlceID": "15317",
+      "KabeyeUzaklik": "6742",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:28:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:39:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "IPOH",
+      "IlceAdiEn": null,
+      "IlceID": "15318",
+      "KabeyeUzaklik": "6852",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:23:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:29:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "JOHOR BAHARU",
+      "IlceAdiEn": null,
+      "IlceID": "15319",
+      "KabeyeUzaklik": "7260",
+      "KibleAcisi": "293",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:29:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:42:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "KANGAR",
+      "IlceAdiEn": null,
+      "IlceID": "15320",
+      "KabeyeUzaklik": "6686",
+      "KibleAcisi": "291",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:30:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:38:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "KELANG",
+      "IlceAdiEn": null,
+      "IlceID": "15321",
+      "KabeyeUzaklik": "6956",
+      "KibleAcisi": "293",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:24:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:31:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "KELUANG",
+      "IlceAdiEn": null,
+      "IlceID": "15322",
+      "KabeyeUzaklik": "7191",
+      "KibleAcisi": "293",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:21:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:34:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "KOTA BAHARU",
+      "IlceAdiEn": null,
+      "IlceID": "15323",
+      "KabeyeUzaklik": "6910",
+      "KibleAcisi": "291",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:26:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:39:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "290",
+      "IlceAdi": "KOTA KINABALU",
+      "IlceAdiEn": null,
+      "IlceID": "15324",
+      "KabeyeUzaklik": "8347",
+      "KibleAcisi": "290",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:21:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:29:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "KOTA TINGGI MERSING",
+      "IlceAdiEn": null,
+      "IlceID": "15325",
+      "KabeyeUzaklik": "7227",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:28:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:36:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "KUALA LUMPUR",
+      "IlceAdiEn": null,
+      "IlceID": "15344",
+      "KabeyeUzaklik": "7005",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:19:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:31:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "KUALA TERENGGANU",
+      "IlceAdiEn": null,
+      "IlceID": "15326",
+      "KabeyeUzaklik": "7035",
+      "KibleAcisi": "291",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:21:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:30:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "KUANTAN",
+      "IlceAdiEn": null,
+      "IlceID": "15327",
+      "KabeyeUzaklik": "7117",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:56:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:03:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "KUCHING",
+      "IlceAdiEn": null,
+      "IlceID": "15328",
+      "KabeyeUzaklik": "7933",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:29:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:41:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "KULIM",
+      "IlceAdiEn": null,
+      "IlceID": "15329",
+      "KabeyeUzaklik": "6766",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:31:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:42:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "290",
+      "IlceAdi": "LABUAN",
+      "IlceAdiEn": null,
+      "IlceID": "15330",
+      "KabeyeUzaklik": "8288",
+      "KibleAcisi": "290",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:28:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:35:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "MELAKA",
+      "IlceAdiEn": null,
+      "IlceID": "15342",
+      "KabeyeUzaklik": "7075",
+      "KibleAcisi": "293",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:37:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:48:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "MIRI",
+      "IlceAdiEn": null,
+      "IlceID": "15331",
+      "KabeyeUzaklik": "8193",
+      "KibleAcisi": "291",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:27:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:34:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "MUAR",
+      "IlceAdiEn": null,
+      "IlceID": "15332",
+      "KabeyeUzaklik": "7114",
+      "KibleAcisi": "293",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:30:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:42:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "PENANG",
+      "IlceAdiEn": null,
+      "IlceID": "15343",
+      "KabeyeUzaklik": "6746",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:18:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:31:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "290",
+      "IlceAdi": "SANDAKAN",
+      "IlceAdiEn": null,
+      "IlceID": "15333",
+      "KabeyeUzaklik": "8563",
+      "KibleAcisi": "290",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:25:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:33:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "SEGAMAT",
+      "IlceAdiEn": null,
+      "IlceID": "15334",
+      "KabeyeUzaklik": "7118",
+      "KibleAcisi": "293",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:28:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:36:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "SEREMBAN",
+      "IlceAdiEn": null,
+      "IlceID": "15335",
+      "KabeyeUzaklik": "7021",
+      "KibleAcisi": "293",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:49:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:57:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "SIBU",
+      "IlceAdiEn": null,
+      "IlceID": "15336",
+      "KabeyeUzaklik": "8056",
+      "KibleAcisi": "291",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:29:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:41:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "SUNGAI PETANI",
+      "IlceAdiEn": null,
+      "IlceID": "15337",
+      "KabeyeUzaklik": "6748",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:29:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:40:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "TAIPING",
+      "IlceAdiEn": null,
+      "IlceID": "15338",
+      "KabeyeUzaklik": "6805",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:52:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:58:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "TAWAI",
+      "IlceAdiEn": null,
+      "IlceID": "15339",
+      "KabeyeUzaklik": "8066",
+      "KibleAcisi": "291",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:22:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:32:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "291",
+      "IlceAdi": "TAWAU",
+      "IlceAdiEn": null,
+      "IlceID": "15341",
+      "KabeyeUzaklik": "8602",
+      "KibleAcisi": "291",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:30:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:39:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "292",
+      "IlceAdi": "TELUK INTAN",
+      "IlceAdiEn": null,
+      "IlceID": "15340",
+      "KabeyeUzaklik": "6871",
+      "KibleAcisi": "292",
+      "SehirAdi": "MALEZYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MALEZYA",
+      "UlkeAdiEn": null
+    }
+  }
+]

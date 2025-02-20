@@ -1,0 +1,46 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:27:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:48:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "119",
+      "IlceAdi": "MONAKO",
+      "IlceAdiEn": null,
+      "IlceID": "15543",
+      "KabeyeUzaklik": "3879",
+      "KibleAcisi": "118",
+      "SehirAdi": "MONAKO",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MONAKO",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:27:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:48:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "119",
+      "IlceAdi": "MONTE KARLO",
+      "IlceAdiEn": null,
+      "IlceID": "15544",
+      "KabeyeUzaklik": "3879",
+      "KibleAcisi": "118",
+      "SehirAdi": "MONAKO",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MONAKO",
+      "UlkeAdiEn": null
+    }
+  }
+]

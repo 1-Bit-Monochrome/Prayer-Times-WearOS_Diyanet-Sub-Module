@@ -1,0 +1,46 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:01:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:35:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "281",
+      "IlceAdi": "KOUMAC",
+      "IlceAdiEn": null,
+      "IlceID": "16613",
+      "KabeyeUzaklik": "12389",
+      "KibleAcisi": "270",
+      "SehirAdi": "YENI KALEDONYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "YENI KALEDONYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:56:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:27:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "279",
+      "IlceAdi": "NOUMEA",
+      "IlceAdiEn": null,
+      "IlceID": "16612",
+      "KabeyeUzaklik": "12464",
+      "KibleAcisi": "267",
+      "SehirAdi": "YENI KALEDONYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "YENI KALEDONYA",
+      "UlkeAdiEn": null
+    }
+  }
+]

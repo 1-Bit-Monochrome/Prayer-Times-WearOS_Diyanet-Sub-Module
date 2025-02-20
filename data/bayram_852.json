@@ -1,0 +1,24 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:34:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:24:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "136",
+      "IlceAdi": "BERLIN",
+      "IlceAdiEn": null,
+      "IlceID": "11002",
+      "KabeyeUzaklik": "4132",
+      "KibleAcisi": "134",
+      "SehirAdi": "BERLIN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ALMANYA",
+      "UlkeAdiEn": null
+    }
+  }
+]

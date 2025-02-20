@@ -1,0 +1,24 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:19:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:43:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "294",
+      "IlceAdi": "AGANA",
+      "IlceAdiEn": null,
+      "IlceID": "13455",
+      "KabeyeUzaklik": "10957",
+      "KibleAcisi": "293",
+      "SehirAdi": "GUAM ADASI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "GUAM ADASI",
+      "UlkeAdiEn": null
+    }
+  }
+]

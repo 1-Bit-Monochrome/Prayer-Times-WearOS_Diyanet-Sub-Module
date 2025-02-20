@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:25:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:37:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "180",
+      "IlceAdi": "AYDINTEPE",
+      "IlceAdiEn": null,
+      "IlceID": "9294",
+      "KabeyeUzaklik": "2108",
+      "KibleAcisi": "176",
+      "SehirAdi": "BAYBURT",
+      "SehirAdiEn": null,
+      "UlkeAdi": "TÜRKİYE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:25:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:37:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "181",
+      "IlceAdi": "BAYBURT",
+      "IlceAdiEn": null,
+      "IlceID": "9295",
+      "KabeyeUzaklik": "2094",
+      "KibleAcisi": "176",
+      "SehirAdi": "BAYBURT",
+      "SehirAdiEn": null,
+      "UlkeAdi": "TÜRKİYE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:26:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:38:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "180",
+      "IlceAdi": "DEMİRÖZÜ",
+      "IlceAdiEn": null,
+      "IlceID": "9296",
+      "KabeyeUzaklik": "2083",
+      "KibleAcisi": "175",
+      "SehirAdi": "BAYBURT",
+      "SehirAdiEn": null,
+      "UlkeAdi": "TÜRKİYE",
+      "UlkeAdiEn": null
+    }
+  }
+]

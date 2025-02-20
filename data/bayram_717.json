@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:02:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:16:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "67",
+      "IlceAdi": "GEORGETOWN",
+      "IlceAdiEn": null,
+      "IlceID": "13559",
+      "KabeyeUzaklik": "10553",
+      "KibleAcisi": "83",
+      "SehirAdi": "GUYANA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "GUYANA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:03:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:16:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "67",
+      "IlceAdi": "LINDEN",
+      "IlceAdiEn": null,
+      "IlceID": "13560",
+      "KabeyeUzaklik": "10599",
+      "KibleAcisi": "83",
+      "SehirAdi": "GUYANA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "GUYANA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:00:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:13:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "67",
+      "IlceAdi": "NEW AMSTERDAM",
+      "IlceAdiEn": null,
+      "IlceID": "13561",
+      "KabeyeUzaklik": "10512",
+      "KibleAcisi": "84",
+      "SehirAdi": "GUYANA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "GUYANA",
+      "UlkeAdiEn": null
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "03:42:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "05:01:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "153",
+      "IlceAdi": "LONGYEARBYEN",
+      "IlceAdiEn": null,
+      "IlceID": "16317",
+      "KabeyeUzaklik": "6443",
+      "KibleAcisi": "148",
+      "SehirAdi": "SVALBARD",
+      "SehirAdiEn": null,
+      "UlkeAdi": "SVALBARD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "03:38:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "04:59:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "154",
+      "IlceAdi": "SVEAGRUVA",
+      "IlceAdiEn": null,
+      "IlceID": "16318",
+      "KabeyeUzaklik": "6400",
+      "KibleAcisi": "148",
+      "SehirAdi": "SVALBARD",
+      "SehirAdiEn": null,
+      "UlkeAdi": "SVALBARD",
+      "UlkeAdiEn": null
+    }
+  }
+]

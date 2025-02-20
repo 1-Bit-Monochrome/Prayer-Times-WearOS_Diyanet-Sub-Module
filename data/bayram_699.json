@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:02:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:41:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "282",
+      "IlceAdi": "LAUTOKA",
+      "IlceAdiEn": null,
+      "IlceID": "12819",
+      "KabeyeUzaklik": "13684",
+      "KibleAcisi": "270",
+      "SehirAdi": "FIJI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "FIJI",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:57:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:35:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "282",
+      "IlceAdi": "LEVUKA",
+      "IlceAdiEn": null,
+      "IlceID": "12820",
+      "KabeyeUzaklik": "13787",
+      "KibleAcisi": "270",
+      "SehirAdi": "FIJI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "FIJI",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "07:00:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:37:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "281",
+      "IlceAdi": "SUVA",
+      "IlceAdiEn": null,
+      "IlceID": "12821",
+      "KabeyeUzaklik": "13721",
+      "KibleAcisi": "270",
+      "SehirAdi": "FIJI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "FIJI",
+      "UlkeAdiEn": null
+    }
+  }
+]

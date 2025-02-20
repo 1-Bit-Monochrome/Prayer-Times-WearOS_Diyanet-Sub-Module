@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:57:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:20:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "66",
+      "IlceAdi": "BRIDGETOWN",
+      "IlceAdiEn": null,
+      "IlceID": "11673",
+      "KabeyeUzaklik": "10430",
+      "KibleAcisi": "82",
+      "SehirAdi": "BARBADOS",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BARBADOS",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:57:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:20:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "66",
+      "IlceAdi": "CHRISTCHURCH",
+      "IlceAdiEn": null,
+      "IlceID": "11674",
+      "KabeyeUzaklik": "10425",
+      "KibleAcisi": "82",
+      "SehirAdi": "BARBADOS",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BARBADOS",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:57:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:20:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "66",
+      "IlceAdi": "SPEIGHTSTOWN",
+      "IlceAdiEn": null,
+      "IlceID": "11675",
+      "KabeyeUzaklik": "10427",
+      "KibleAcisi": "82",
+      "SehirAdi": "BARBADOS",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BARBADOS",
+      "UlkeAdiEn": null
+    }
+  }
+]

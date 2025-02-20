@@ -1,0 +1,112 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:15:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:32:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "43",
+      "IlceAdi": "AMES",
+      "IlceAdiEn": null,
+      "IlceID": "8777",
+      "KabeyeUzaklik": "11495",
+      "KibleAcisi": "42",
+      "SehirAdi": "IOWA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:27:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:41:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "42",
+      "IlceAdi": "COUNCIL BLUFFS",
+      "IlceAdiEn": null,
+      "IlceID": "8778",
+      "KabeyeUzaklik": "11685",
+      "KibleAcisi": "38",
+      "SehirAdi": "IOWA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:17:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:32:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "44",
+      "IlceAdi": "DES MOINES",
+      "IlceAdiEn": null,
+      "IlceID": "8779",
+      "KabeyeUzaklik": "11530",
+      "KibleAcisi": "42",
+      "SehirAdi": "IOWA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:08:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:24:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "45",
+      "IlceAdi": "IOWA CITY",
+      "IlceAdiEn": null,
+      "IlceID": "8780",
+      "KabeyeUzaklik": "11402",
+      "KibleAcisi": "43",
+      "SehirAdi": "IOWA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:14:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:30:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "44",
+      "IlceAdi": "NEWTON",
+      "IlceAdiEn": null,
+      "IlceID": "8781",
+      "KabeyeUzaklik": "11490",
+      "KibleAcisi": "43",
+      "SehirAdi": "IOWA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  }
+]

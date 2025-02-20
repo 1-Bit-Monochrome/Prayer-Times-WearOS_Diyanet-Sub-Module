@@ -1,0 +1,90 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:09:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:59:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "150",
+      "IlceAdi": "AL-AQABAH",
+      "IlceAdiEn": null,
+      "IlceID": "16536",
+      "KabeyeUzaklik": "1022",
+      "KibleAcisi": "147",
+      "SehirAdi": "URDUN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "URDUN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:01:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:55:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "160",
+      "IlceAdi": "AMMAN",
+      "IlceAdiEn": null,
+      "IlceID": "16535",
+      "KabeyeUzaklik": "1232",
+      "KibleAcisi": "157",
+      "SehirAdi": "URDUN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "URDUN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:00:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:54:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "161",
+      "IlceAdi": "AZ ZARQA",
+      "IlceAdiEn": null,
+      "IlceID": "16533",
+      "KabeyeUzaklik": "1237",
+      "KibleAcisi": "158",
+      "SehirAdi": "URDUN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "URDUN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:00:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:55:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "161",
+      "IlceAdi": "IRBID",
+      "IlceAdiEn": null,
+      "IlceID": "16534",
+      "KabeyeUzaklik": "1298",
+      "KibleAcisi": "158",
+      "SehirAdi": "URDUN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "URDUN",
+      "UlkeAdiEn": null
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:51:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:06:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "161",
+      "IlceAdi": "EFLANİ",
+      "IlceAdiEn": null,
+      "IlceID": "9580",
+      "KabeyeUzaklik": "2314",
+      "KibleAcisi": "157",
+      "SehirAdi": "KARABÜK",
+      "SehirAdiEn": null,
+      "UlkeAdi": "TÜRKİYE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:54:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:08:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "160",
+      "IlceAdi": "ESKİPAZAR",
+      "IlceAdiEn": null,
+      "IlceID": "17890",
+      "KabeyeUzaklik": "2276",
+      "KibleAcisi": "156",
+      "SehirAdi": "KARABÜK",
+      "SehirAdiEn": null,
+      "UlkeAdi": "TÜRKİYE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:53:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:07:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "160",
+      "IlceAdi": "KARABÜK",
+      "IlceAdiEn": null,
+      "IlceID": "9581",
+      "KabeyeUzaklik": "2300",
+      "KibleAcisi": "156",
+      "SehirAdi": "KARABÜK",
+      "SehirAdiEn": null,
+      "UlkeAdi": "TÜRKİYE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:52:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:06:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "161",
+      "IlceAdi": "OVACIK (K)",
+      "IlceAdiEn": null,
+      "IlceID": "9582",
+      "KabeyeUzaklik": "2279",
+      "KibleAcisi": "156",
+      "SehirAdi": "KARABÜK",
+      "SehirAdiEn": null,
+      "UlkeAdi": "TÜRKİYE",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:54:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:09:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "159",
+      "IlceAdi": "YENİCE (K)",
+      "IlceAdiEn": null,
+      "IlceID": "9583",
+      "KabeyeUzaklik": "2309",
+      "KibleAcisi": "155",
+      "SehirAdi": "KARABÜK",
+      "SehirAdiEn": null,
+      "UlkeAdi": "TÜRKİYE",
+      "UlkeAdiEn": null
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:13:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "05:57:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "246",
+      "IlceAdi": "AL MUHARRIK",
+      "IlceAdiEn": null,
+      "IlceID": "11666",
+      "KabeyeUzaklik": "1221",
+      "KibleAcisi": "244",
+      "SehirAdi": "BAHREYN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BAHREYN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:14:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "05:57:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "246",
+      "IlceAdi": "AR RIFA'ALGHARBI",
+      "IlceAdiEn": null,
+      "IlceID": "11668",
+      "KabeyeUzaklik": "1209",
+      "KibleAcisi": "245",
+      "SehirAdi": "BAHREYN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BAHREYN",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:13:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "05:57:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "246",
+      "IlceAdi": "MANAMA",
+      "IlceAdiEn": null,
+      "IlceID": "11667",
+      "KabeyeUzaklik": "1216",
+      "KibleAcisi": "244",
+      "SehirAdi": "BAHREYN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "BAHREYN",
+      "UlkeAdiEn": null
+    }
+  }
+]

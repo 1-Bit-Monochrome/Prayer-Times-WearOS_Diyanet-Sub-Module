@@ -1,0 +1,46 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:51:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:03:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "67",
+      "IlceAdi": "BUCHANAN",
+      "IlceAdiEn": null,
+      "IlceID": "15180",
+      "KabeyeUzaklik": "5632",
+      "KibleAcisi": "75",
+      "SehirAdi": "LIBERYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "LIBERYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:53:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:06:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "67",
+      "IlceAdi": "MONROVIA",
+      "IlceAdiEn": null,
+      "IlceID": "15179",
+      "KabeyeUzaklik": "5691",
+      "KibleAcisi": "76",
+      "SehirAdi": "LIBERYA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "LIBERYA",
+      "UlkeAdiEn": null
+    }
+  }
+]

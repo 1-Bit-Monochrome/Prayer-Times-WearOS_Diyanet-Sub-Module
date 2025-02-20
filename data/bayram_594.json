@@ -1,0 +1,90 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:42:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "08:03:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "23",
+      "IlceAdi": "BOISE",
+      "IlceAdiEn": null,
+      "IlceID": "8754",
+      "KabeyeUzaklik": "12383",
+      "KibleAcisi": "9",
+      "SehirAdi": "IDAHO",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:35:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:06:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "22",
+      "IlceAdi": "MOSCOW",
+      "IlceAdiEn": null,
+      "IlceID": "8755",
+      "KabeyeUzaklik": "12090",
+      "KibleAcisi": "23",
+      "SehirAdi": "IDAHO",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:34:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:55:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "25",
+      "IlceAdi": "SUN VALLEY",
+      "IlceAdiEn": null,
+      "IlceID": "8756",
+      "KabeyeUzaklik": "12312",
+      "KibleAcisi": "11",
+      "SehirAdi": "IDAHO",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:37:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:56:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "25",
+      "IlceAdi": "TWIN FALLS",
+      "IlceAdiEn": null,
+      "IlceID": "8757",
+      "KabeyeUzaklik": "12429",
+      "KibleAcisi": "26",
+      "SehirAdi": "IDAHO",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ABD",
+      "UlkeAdiEn": null
+    }
+  }
+]

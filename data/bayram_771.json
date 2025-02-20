@@ -1,0 +1,24 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:00:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:26:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "66",
+      "IlceAdi": "FORT-DE-FRANCE",
+      "IlceAdiEn": null,
+      "IlceID": "15353",
+      "KabeyeUzaklik": "10510",
+      "KibleAcisi": "81",
+      "SehirAdi": "MARTINIK",
+      "SehirAdiEn": null,
+      "UlkeAdi": "MARTINIK",
+      "UlkeAdiEn": null
+    }
+  }
+]

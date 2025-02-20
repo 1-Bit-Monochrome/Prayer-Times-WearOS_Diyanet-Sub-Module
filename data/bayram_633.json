@@ -1,0 +1,112 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:15:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "08:00:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "23",
+      "IlceAdi": "BANFF",
+      "IlceAdiEn": null,
+      "IlceID": "9059",
+      "KabeyeUzaklik": "11594",
+      "KibleAcisi": "7",
+      "SehirAdi": "ALBERTA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KANADA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:09:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:54:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "24",
+      "IlceAdi": "CALGARY",
+      "IlceAdiEn": null,
+      "IlceID": "9060",
+      "KabeyeUzaklik": "11565",
+      "KibleAcisi": "40",
+      "SehirAdi": "ALBERTA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KANADA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:57:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:52:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "25",
+      "IlceAdi": "EDMONTON",
+      "IlceAdiEn": null,
+      "IlceID": "9061",
+      "KabeyeUzaklik": "11296",
+      "KibleAcisi": "9",
+      "SehirAdi": "ALBERTA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KANADA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:44:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "09:16:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "5",
+      "IlceAdi": "INUVIK",
+      "IlceAdiEn": null,
+      "IlceID": "33273",
+      "KabeyeUzaklik": "10020",
+      "KibleAcisi": "6",
+      "SehirAdi": "ALBERTA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KANADA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:18:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "08:10:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "21",
+      "IlceAdi": "JASPER",
+      "IlceAdiEn": null,
+      "IlceID": "9062",
+      "KabeyeUzaklik": "11485",
+      "KibleAcisi": "3",
+      "SehirAdi": "ALBERTA",
+      "SehirAdiEn": null,
+      "UlkeAdi": "KANADA",
+      "UlkeAdiEn": null
+    }
+  }
+]

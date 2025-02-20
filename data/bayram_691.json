@@ -1,0 +1,46 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:40:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:50:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "56",
+      "IlceAdi": "CIUDAD DE LUBA",
+      "IlceAdiEn": null,
+      "IlceID": "12714",
+      "KabeyeUzaklik": "3926",
+      "KibleAcisi": "60",
+      "SehirAdi": "EKVATOR GINESI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "EKVATOR GINESI",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:39:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:49:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "56",
+      "IlceAdi": "MALABO",
+      "IlceAdiEn": null,
+      "IlceID": "12713",
+      "KabeyeUzaklik": "3886",
+      "KibleAcisi": "60",
+      "SehirAdi": "EKVATOR GINESI",
+      "SehirAdiEn": null,
+      "UlkeAdi": "EKVATOR GINESI",
+      "UlkeAdiEn": null
+    }
+  }
+]

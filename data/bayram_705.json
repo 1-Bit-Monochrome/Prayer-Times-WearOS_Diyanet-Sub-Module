@@ -1,0 +1,112 @@
+[
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:42:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:47:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "52",
+      "IlceAdi": "LIBREVILLE",
+      "IlceAdiEn": null,
+      "IlceID": "13430",
+      "KabeyeUzaklik": "4041",
+      "KibleAcisi": "56",
+      "SehirAdi": "GABON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "GABON",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:28:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:33:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "49",
+      "IlceAdi": "MAKOKOU",
+      "IlceAdiEn": null,
+      "IlceID": "13433",
+      "KabeyeUzaklik": "3734",
+      "KibleAcisi": "52",
+      "SehirAdi": "GABON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "GABON",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:31:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:38:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "52",
+      "IlceAdi": "OYEM",
+      "IlceAdiEn": null,
+      "IlceID": "13432",
+      "KabeyeUzaklik": "3772",
+      "KibleAcisi": "55",
+      "SehirAdi": "GABON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "GABON",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:46:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:50:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "51",
+      "IlceAdi": "PORT GENTIL",
+      "IlceAdiEn": null,
+      "IlceID": "13431",
+      "KabeyeUzaklik": "4080",
+      "KibleAcisi": "56",
+      "SehirAdi": "GABON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "GABON",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "06:41:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "06:41:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
+      "CografiKibleAcisi": "47",
+      "IlceAdi": "TCHIBANGA",
+      "IlceAdiEn": null,
+      "IlceID": "13434",
+      "KabeyeUzaklik": "3737",
+      "KibleAcisi": "52",
+      "SehirAdi": "GABON",
+      "SehirAdiEn": null,
+      "UlkeAdi": "GABON",
+      "UlkeAdiEn": null
+    }
+  }
+]
