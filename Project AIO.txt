@@ -11,3 +11,8 @@ python -c "import requests; print(requests.__version__)"
 -- --- -- ---
 //Zip the whole Folder you're in
 find . -type f -print | zip archive_name.zip -@
+
+----------
+// (!!!) Theses files belong to /data
+_combineToFinalJSON_master_data.py
+_combineToManifestJSON.py
