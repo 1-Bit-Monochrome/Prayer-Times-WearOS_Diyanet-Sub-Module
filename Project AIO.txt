@@ -1,0 +1,13 @@
+//Get back to the Python env:
+
+cd Desktop/Prayer ((Use auto complete))
+
+//activate
+source myenv/bin/activate
+
+//verify
+python -c "import requests; print(requests.__version__)"
+
+-- --- -- ---
+//Zip the whole Folder you're in
+find . -type f -print | zip archive_name.zip -@
