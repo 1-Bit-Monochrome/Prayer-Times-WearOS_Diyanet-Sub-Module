@@ -1,0 +1,1 @@
+# Prayer-Times-WearOS_Diyanet-Sub-Module
