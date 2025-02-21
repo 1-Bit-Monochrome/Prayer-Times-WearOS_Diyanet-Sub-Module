@@ -207,6 +207,28 @@
       "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
     },
     "ilceBilgisi": {
+      "CografiKibleAcisi": "131",
+      "IlceAdi": "ARNSTORF",
+      "IlceAdiEn": null,
+      "IlceID": "33347",
+      "KabeyeUzaklik": "3853",
+      "KibleAcisi": "127",
+      "SehirAdi": "BAYERN",
+      "SehirAdiEn": null,
+      "UlkeAdi": "ALMANYA",
+      "UlkeAdiEn": null
+    }
+  },
+  {
+    "bayramNamazVakti": {
+      "KurbanBayramNamaziHTarihi": "10 Zilhicce 1446",
+      "KurbanBayramNamaziSaati": "05:50:00",
+      "KurbanBayramNamaziTarihi": "6 Haziran 2025 Cuma",
+      "RamazanBayramNamaziHTarihi": "1 Şevval 1446",
+      "RamazanBayramNamaziSaati": "07:26:00",
+      "RamazanBayramNamaziTarihi": "30 Mart 2025 Pazar"
+    },
+    "ilceBilgisi": {
       "CografiKibleAcisi": "132",
       "IlceAdi": "ASBACH(LANZING)",
       "IlceAdiEn": null,

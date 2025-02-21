@@ -1,26 +1,5 @@
 [
   {
-    "Aksam": "17:46",
-    "AyinSekliURL": "http://namazvakti.diyanet.gov.tr/images/d5.gif",
-    "GreenwichOrtalamaZamani": 1.0,
-    "Gunes": "07:25",
-    "GunesBatis": "17:39",
-    "GunesDogus": "07:32",
-    "HicriTarihKisa": "19.8.1446",
-    "HicriTarihKisaIso8601": null,
-    "HicriTarihUzun": "19 Şaban 1446",
-    "HicriTarihUzunIso8601": null,
-    "Ikindi": "15:12",
-    "Imsak": "05:38",
-    "KibleSaati": "09:24",
-    "MiladiTarihKisa": "18.02.2025",
-    "MiladiTarihKisaIso8601": "18.02.2025",
-    "MiladiTarihUzun": "18 Şubat 2025 Salı",
-    "MiladiTarihUzunIso8601": "2025-02-18T00:00:00.0000000+03:00",
-    "Ogle": "12:41",
-    "Yatsi": "19:20"
-  },
-  {
     "Aksam": "17:48",
     "AyinSekliURL": "http://namazvakti.diyanet.gov.tr/images/d6.gif",
     "GreenwichOrtalamaZamani": 1.0,
@@ -649,5 +628,26 @@
     "MiladiTarihUzunIso8601": "2025-03-20T00:00:00.0000000+03:00",
     "Ogle": "12:34",
     "Yatsi": "20:16"
+  },
+  {
+    "Aksam": "18:43",
+    "AyinSekliURL": "http://namazvakti.diyanet.gov.tr/images/sondordun.gif",
+    "GreenwichOrtalamaZamani": 1.0,
+    "Gunes": "06:15",
+    "GunesBatis": "18:36",
+    "GunesDogus": "06:22",
+    "HicriTarihKisa": "21.9.1446",
+    "HicriTarihKisaIso8601": null,
+    "HicriTarihUzun": "21 Ramazan 1446",
+    "HicriTarihUzunIso8601": null,
+    "Ikindi": "15:50",
+    "Imsak": "04:26",
+    "KibleSaati": "09:42",
+    "MiladiTarihKisa": "21.03.2025",
+    "MiladiTarihKisaIso8601": "21.03.2025",
+    "MiladiTarihUzun": "21 Mart 2025 Cuma",
+    "MiladiTarihUzunIso8601": "2025-03-21T00:00:00.0000000+03:00",
+    "Ogle": "12:34",
+    "Yatsi": "20:18"
   }
 ]
