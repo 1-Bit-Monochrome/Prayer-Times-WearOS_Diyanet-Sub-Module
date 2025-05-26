@@ -92,8 +92,8 @@ def main():
                 # 5. Fetch Prayer Times for the District
                 prayer_times = fetch_and_save(f"/vakitler/{district_id}", os.path.join(data_dir, f"prayer_times_{district_id}.json"))
             
-            # 6. Fetch Bayram Prayer Times for the City
-            bayram = fetch_and_save(f"/bayram-namazi/{city_id}", os.path.join(data_dir, f"bayram_{city_id}.json"))
+            # 6. Fetch Bayram Prayer Times for the City ((FOR NOW, NOT!))
+            # bayram = fetch_and_save(f"/bayram-namazi/{city_id}", os.path.join(data_dir, f"bayram_{city_id}.json"))
 
 if __name__ == "__main__":
     main()
