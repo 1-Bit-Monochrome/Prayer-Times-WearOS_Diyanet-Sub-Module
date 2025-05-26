@@ -3,7 +3,7 @@ name: Update Prayer Times Data
 on:
   schedule:
     # This cron expression / workflow runs every 20 days at midnight (UTC I think? no idea)
-    - cron: "0 0 */20 * *"
+    - cron: "0 0 20 * *"
   workflow_dispatch:
 
 jobs:
