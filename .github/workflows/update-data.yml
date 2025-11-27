@@ -9,9 +9,12 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.YA_ALLAH_1 }}
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v4
@@ -34,8 +37,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Own Actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "Black00Z"
+          git config user.email "12191067+Black00Z@users.noreply.github.com"
           git add .
           git commit -m "Automated update of prayer times data" || echo "No changes to commit!"
-          git push
+          git push origin HEAD:main
